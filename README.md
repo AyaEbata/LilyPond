@@ -1,0 +1,3 @@
+```
+$ lilypond fileName.ly
+```
